@@ -2,6 +2,12 @@
 
 Application RH pour une clinique: gestion du personnel, des conges, des emplois du temps, du pointage et d'un chatbot d'assistance.
 
+## Outils utilises
+
+- Frontend: `React`, `Vite`, `Bootstrap`, `react-router-dom`, `Recharts`
+- Backend: `Node.js`, `Express`, `pg`, `cors`, `bcryptjs`, `jsonwebtoken`, `nodemailer`, `node-nlp`, `@google/generative-ai`
+- Base de donnees: `PostgreSQL`, `pgAdmin`
+- Gestion de version: `Git`, `GitHub`
 ## Base de donnees PostgreSQL avec pgAdmin
 
 Le nom recommande pour la base est `clinique`.
