@@ -1,6 +1,12 @@
 # CliniqueRH
 
-Application RH pour une clinique: gestion du personnel, des conges, des emplois du temps, du pointage et d'un chatbot d'assistance.
+Ce projet a pour objectif de développer une application dédiée à la gestion des ressources humaines dans une clinique, afin de faciliter la gestion du personnel médical. La solution proposée vise à centraliser, organiser et simplifier les principales activités liées aux ressources humaines au sein de la clinique.
+
+L’application intégrera une authentification sécurisée ainsi que des fonctionnalités permettant l’ajout, la modification et la suppression du personnel et des services. Elle comprendra également un tableau de bord destiné à l’administrateur RH, affichant des indicateurs utiles tels que l’effectif global, le suivi des absences et la répartition du personnel par service, afin d’améliorer la prise de décision. Cet espace permettra aussi de créer et de gérer les emplois du temps, ainsi que de valider ou de refuser les demandes de congé soumises par le personnel.
+
+En parallèle, un tableau de bord dédié au personnel sera mis en place. Cet espace permettra d’effectuer les opérations de check-in et de check-out, de consulter sa fiche de paie, de visualiser son emploi du temps et de suivre l’état de ses congés, tout en offrant la possibilité de soumettre des demandes de congé.
+
+Enfin, l’application intégrera un chatbot intelligent destiné à assister les utilisateurs en temps réel, à répondre aux questions liées aux ressources humaines et à faciliter l’accès aux informations et fonctionnalités de la plateforme, améliorant ainsi l’expérience utilisateur et l’efficacité du système.
 
 ## Outils utilises
 
