@@ -43,7 +43,9 @@ CHECKIN_GEOFENCE_RADIUS_M=120
 
 ### 3) Creer les tables de base
 
+
 Ouvre `Query Tool` sur la base `clinique`, puis execute ce script. Il cree les tables si elles n'existent pas deja.
+Les autres tables comme payroll,attendance,conge,planning,planningRequestet typeshift ont été créées automatiquement à cause de code. 
 
 ```sql
 CREATE TABLE IF NOT EXISTS grade (
