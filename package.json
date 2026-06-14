@@ -1,0 +1,8 @@
+{
+  "name": "Clinique-RH",
+  "version": "4.8.2",
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "react-router-dom": "^7.13.1"
+  }
+}

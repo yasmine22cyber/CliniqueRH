@@ -1,0 +1,29 @@
+/* Theme Admin */
+.theme-admin .chatbot-fab {
+  background: linear-gradient(135deg, #7c3aed, #4f46e5);
+  box-shadow: 0 4px 14px rgba(79, 70, 229, 0.4);
+}
+
+.theme-admin .chatbot-fab:hover {
+  box-shadow: 0 6px 20px rgba(79, 70, 229, 0.5);
+}
+
+.theme-admin .chatbot-header {
+  background: linear-gradient(135deg, #4c1d95, #4f46e5);
+}
+
+.theme-admin .chatbot-message-row.user .chatbot-message-bubble {
+  background: #4f46e5;
+}
+
+.theme-admin .chatbot-input-area button {
+  background: #4f46e5;
+}
+
+.theme-admin .chatbot-input-area button:hover:not(:disabled) {
+  background: #4338ca;
+}
+
+.theme-admin .chatbot-input-area textarea:focus {
+  border-color: #4f46e5;
+}
